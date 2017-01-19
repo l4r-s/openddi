@@ -3,9 +3,10 @@
 Anoied about all the commercial - closed sourced - ddi soloutions out in the wild, this repo should help creating a open sourced ddi solution.
 
 ## Key Parts
-- isc's new kea DHCP
-- isc's bind DNS server
-- digitaloceans ipam solution
-
-## Communication flow
-
+### DHCP
+- isc's new [kea](http://kea.isc.org/wiki) DHCP
+### DNS
+- [bind](https://www.isc.org/downloads/bind/)
+- [djbdns](https://cr.yp.to/djbdns.html)
+### IPAM
+- [NIPAP](http://spritelink.github.io/NIPAP/) ipam
